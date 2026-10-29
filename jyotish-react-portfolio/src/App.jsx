@@ -143,7 +143,9 @@ function App() {
             <div className="availability"><span className="pulse-dot" /> Available for opportunities</div>
             <p className="eyebrow">HELLO, I'M</p>
             <h1>Jyotish Kumar<br /><span>Das.</span></h1>
-            <h2 className="role-line">I'M <span>{role}<i className="cursor"></i></span></h2>
+            <h2 className="role-line">
+              I'M a <span>{role}<i className="cursor"></i></span>
+            </h2>
             <p className="hero-description">
               MERN Stack Developer passionate about building secure, scalable web applications
               and clean, responsive user experiences.
